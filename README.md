@@ -1,1 +1,1 @@
-Hello i'm here to made management project in php. # mine
+Hello i like php and c#.  # mine
